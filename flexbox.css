@@ -1,0 +1,55 @@
+.header {
+    align-items: center;
+    justify-content: center;
+}
+
+.container  {
+    background-color: aqua;
+    background-color:white;
+    flex-direction: row; columns wrap; 
+    gap: 15px;
+    display: flex-start;
+
+
+}
+
+.box    {
+    width: 300px;
+    height: 600px;
+}
+
+div {
+    display: inline-flex;
+}
+
+p   {
+    display: inline;
+}
+
+button  {
+    display: inline-block;
+}
+
+.green  {
+    background-color: green;
+    border: 50px;
+
+}
+.yellow {
+    background-color:goldenrod;
+    width: 850px;
+    border: 50px;
+}
+.red    {
+    background-color: red;
+}
+
+.blue   {
+    background-color: blue;
+}
+
+.footer {
+    align-content: center;
+    justify-content: center;
+}
+
